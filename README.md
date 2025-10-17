@@ -12,3 +12,7 @@
 - **전처리된 영상**
 <img width="286" height="397" alt="image" src="https://github.com/user-attachments/assets/6f6ed46f-57d7-430c-91ab-7b66896bccf8" />
 
+---
+
+```python
+```
